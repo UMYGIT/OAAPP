@@ -5,8 +5,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <%@include file="/common/common.jspf"%>
-
-	<script src="${ctx}/notebook/notebook_files/bootstrap_calendar.js"></script>
 	<script src="${ctx}/notebook/notebook_files/jquery.flot.min.js"></script>
 	<script src="${ctx}/notebook/notebook_files/jquery.flot.tooltip.min.js"></script>
 	<script src="${ctx}/notebook/notebook_files/jquery.flot.resize.js"></script>
